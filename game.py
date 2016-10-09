@@ -37,4 +37,10 @@ while 1:
         	count=0
         	break
 time_elapsed=time.time()-e_time
-print"\ncongrats.time taken is:" + str(time_elapsed)		
+print"\ncongrats.time taken is:" + str(time_elapsed)
+
+
+'''
+1. Mention controls for the game.
+2. The game should be lost on pressing the wrong key
+'''
